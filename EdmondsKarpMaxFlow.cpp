@@ -4,6 +4,9 @@ Solution of: https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow
 Maximum Bipartite Matching using Edmonds-Karp Max Flow Algorithm
 https://www.geeksforgeeks.org/maximum-bipartite-matching/
 https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+
+More Questions:- 
+1) https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/practice-problems/algorithm/easy-game/
 */
 
 #include<bits/stdc++.h>
