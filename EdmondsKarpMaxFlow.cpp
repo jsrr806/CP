@@ -7,6 +7,12 @@ https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
 
 More Questions:- 
 1) https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/practice-problems/algorithm/easy-game/
+
+TC=O(VE^2)
+Note: Good if |V|<1000 and graph is not dense
+For dense graphs:
+https://www.topcoder.com/community/competitive-programming/tutorials/maximum-flow-augmenting-path-algorithms-comparison/
+TC=O(V^3)
 */
 
 #include<bits/stdc++.h>
